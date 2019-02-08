@@ -3,7 +3,7 @@ function BoardMember (name, homeState, training) {
   this.homeState = homeState;
   this.training = training ;
   this.veto = function(veto) {
-    return "No, I must Dosagree";
+    return "No, I must Disagree";
   }
   this.appprove = function(approve){
     return "You can do that!";
