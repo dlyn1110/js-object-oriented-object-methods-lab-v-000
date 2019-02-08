@@ -9,7 +9,7 @@ function BoardMember (name, homeState, training) {
     return "You can do that";
   }
   this.doCharity = function(doCharity) {
-    return "I like to help peopl";
+    return "I like to help people";
   }
   this.releasePressStatement = function(releasePressStatement) {
     return "You will see great things from Scuber" ;
